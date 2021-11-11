@@ -1,4 +1,4 @@
-id main(List<String> args) {
+void main(List<String> args) {
   List<int> number = [10,20,30];
   number.add(40);
   number.add(50);
